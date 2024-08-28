@@ -1,0 +1,18 @@
+{
+    "embedColorSuccess": "#00D26A",
+    "embedColorWarning": "FFCC4D",
+    "embedColorError": "FB2F61",
+  
+    "embedErrorMessage": "An error occurred!",
+  
+    "commandDevOnly": "This command is limited to developers and is not available for general use. Please contact a developer or admin if you need assistance.",
+    "commandTestMode": "This command is currently in test mode and is only operational in the designated test server. Execution in other servers is disabled. For more details, reach out to an administrator.",
+    "commandPremiumOnly": "This command can only be executed by premium users.",
+  
+    "userNoPermissions": "You do not have enough permissions to execute this command.",
+    "botNoPermissions": "I do not have enough permissions to execute this command.",
+    "hasHigherRolePosition": "You cannot execute this command because this user has a higher role position than you.",
+    "unableToInteractWithYourself": "you cannot interact with yourself.",
+    "cannotUseButton": "You cannot use this button.",
+    "footerText": "Example Text"
+  }

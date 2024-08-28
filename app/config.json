@@ -1,0 +1,37 @@
+{
+  "testServerId": "1257882108106375218",
+  "guildId": "1257882108106375218",
+  "developersId": "981044125698785290",
+
+  "prefix": ".",
+
+  "Channels": {
+    "General": "1257882108106375221",
+    "Rules": "1257882210531409970",
+    "Levels": "1257882783058231306",
+    "Profile": "1257894631459520603",
+    "botInfo": "1260406394641846282"
+  },
+
+  "Moderation": {
+    "logChannel": "1257882757216866324"
+  },
+
+  "Welcomer": {
+    "enabled": "true",
+    "channel": "1257882108106375221",
+    "role": "1260397877390348298"
+  },
+
+  "tickets": {
+    "enabled": "true",
+    "channel": "1257894631459520603",
+    "category": "1268054041384980514",
+    "supportRole": "1260479277753700473"
+  },
+
+  "Economy": {
+    "enabled": "true",
+    "dailyReward": "500"
+  }
+}
